@@ -1,7 +1,7 @@
 # Fetch Issues using Redmine API
 
-This project is a Python-based solution designed to fetch issues from Redmine, process them, generate comprehensive reports in both HTML and CSV formats, and distribute these reports via email. 
-It automates the process of extracting critical issue data, summarizing it, and presenting it in an easily digestible format for various stakeholders.
+This project is a Python-based solution designed to fetch issues using Redmine API, process them, generate comprehensive reports in both HTML and CSV formats, and distribute these reports via email. 
+It automates the process of extracting critical issue data, summarizing it, and presenting it in a clear and easily digestible format for various stakeholders.
 
 
 ## Features
